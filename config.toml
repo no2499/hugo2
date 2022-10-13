@@ -28,7 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
       unsafe = true
 
 [[menu.primary]]
-    name = "首頁"
+    name = "所有活動"
     url = "/"
     weight = 1
 [[menu.primary]]
