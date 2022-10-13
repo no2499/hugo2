@@ -1,5 +1,49 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://example.com"
+title = "熊貓電腦"
+author = "熊貓"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-tanka"
 
-theme = "ananke"
+enableEmoji = true
+hasCJKLanguage = false
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[params]
+  sitename = "熊貓電腦"
+  faviconfile = "images/favicon.png"
+  highlightjs = true
+  highlightjslanguages = ["r", "python", "stan"]
+  uselatex = true
+  progressively = false
+# commentsrepo = "user/repo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
+    name = "首頁"
+    url = "/"
+    weight = 1
+[[menu.primary]]
+    name = "關於熊貓電腦"
+    url = "/post/about"
+    weight = 2
+[[menu.primary]]
+    name = "價目表"
+    url = "/post/price"
+    weight = 3
+[[menu.primary]]
+    name = "聯絡方式"
+    url = "/post/contact"
+    weight = 4
+[[menu.primary]]
+    name = "售後服務"
+    url = "/post/service"
+    weight = 5

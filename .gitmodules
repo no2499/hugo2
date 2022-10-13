@@ -1,3 +1,24 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/beautiful"]
+	path = themes/beautiful
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/serif"]
+	path = themes/serif
+	url = https://github.com/zerostaticthemes/hugo-serif-theme.git
+[submodule "themes/up"]
+	path = themes/up
+	url = https://gitlab.com/writeonlyhugo/up-business-theme.git
+[submodule "themes/uni"]
+	path = themes/uni
+	url = https://github.com/devcows/hugo-universal-theme.git
+[submodule "themes/kasla"]
+	path = themes/kasla
+	url = https://github.com/M1cR0xf7/kaslaanka.git
+[submodule "themes/tanka"]
+	path = themes/tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
+[submodule "themes/hugo-tanka"]
+	path = themes/hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
