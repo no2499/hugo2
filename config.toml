@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://okpanda.netlify.app/"
 title = "熊貓電腦"
 author = "熊貓"
 canonifyurls = true
