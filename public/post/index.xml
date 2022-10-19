@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 熊貓電腦</title>
+    <link>https://okpanda.netlify.app/post/</link>
+    <description>Recent content in Posts on 熊貓電腦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Oct 2022 20:33:46 +0800</lastBuildDate><atom:link href="https://okpanda.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://okpanda.netlify.app/post/test/</link>
+      <pubDate>Wed, 19 Oct 2022 20:33:46 +0800</pubDate>
+      
+      <guid>https://okpanda.netlify.app/post/test/</guid>
+      <description>測試markdown
+####換行</description>
+    </item>
+    
+    <item>
+      <title>我們的價目表</title>
+      <link>https://okpanda.netlify.app/post/price/</link>
+      <pubDate>Thu, 13 Oct 2022 20:06:16 +0800</pubDate>
+      
+      <guid>https://okpanda.netlify.app/post/price/</guid>
+      <description>價目表</description>
+    </item>
+    
+    <item>
+      <title>關於熊貓電腦</title>
+      <link>https://okpanda.netlify.app/post/about/</link>
+      <pubDate>Thu, 13 Oct 2022 20:05:19 +0800</pubDate>
+      
+      <guid>https://okpanda.netlify.app/post/about/</guid>
+      <description>[]</description>
+    </item>
+    
+  </channel>
+</rss>
